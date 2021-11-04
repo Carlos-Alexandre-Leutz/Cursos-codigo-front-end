@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cursos-codigo-front-end/precache-manifest.1c0f131f7aba168f2ea8312e6d9d219e.js"
+  "/Cursos-codigo-front-end/precache-manifest.5ae25f8728c5ee65fb3fcccf70a993c1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spa"});
