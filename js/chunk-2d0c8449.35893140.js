@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c8449"],{"53c8":function(e,c,o){"use strict";o.r(c);var n=o("7a23"),t=Object(n["createVNode"])("h1",null,"Css - Sass",-1),r=Object(n["createVNode"])("div",{class:"alert alert-warning",role:"alert"}," Em breve serão adicionados novos conteúdos em vídeo ",-1);function a(e,c){return Object(n["openBlock"])(),Object(n["createBlock"])("div",null,[t,r])}const s={};s.render=a;c["default"]=s}}]);
+//# sourceMappingURL=chunk-2d0c8449.35893140.js.map
