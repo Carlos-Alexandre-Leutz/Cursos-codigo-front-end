@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cursos-codigo-front-end/precache-manifest.f73f388dd88a81c0415ffd7e2d77a430.js"
+  "/Cursos-codigo-front-end/precache-manifest.5fb459644de8c149cec74274335f2e16.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "CFE"});

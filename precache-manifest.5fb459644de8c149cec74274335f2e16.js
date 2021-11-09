@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16a19a1d6eacd8d21394",
-    "url": "/Cursos-codigo-front-end/css/app.c38a1697.css"
+    "revision": "60920804b5e0cd0382ae",
+    "url": "/Cursos-codigo-front-end/css/app.1258fbba.css"
   },
   {
     "revision": "a7ce840407710581e55c",
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cursos-codigo-front-end/css/chunk-vendors.44aea4fd.css"
   },
   {
-    "revision": "1d911872643ef2d4dbe39e92a42a13d9",
+    "revision": "5c439d51c7d89546d7b83c8efae8bd7d",
     "url": "/Cursos-codigo-front-end/index.html"
   },
   {
-    "revision": "16a19a1d6eacd8d21394",
-    "url": "/Cursos-codigo-front-end/js/app.4a1ef629.js"
+    "revision": "60920804b5e0cd0382ae",
+    "url": "/Cursos-codigo-front-end/js/app.fe800775.js"
   },
   {
     "revision": "a7ce840407710581e55c",
